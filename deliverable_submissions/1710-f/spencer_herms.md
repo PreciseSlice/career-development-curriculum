@@ -27,4 +27,5 @@ https://gist.github.com/PreciseSlice/95f29b805685ec8766674c074929ad6a
 
 ### Outreach & Networking Plan for Module 3:
 
+
 https://gist.github.com/PreciseSlice/d834f344f67e2e36ec5c7ec75146fb03
