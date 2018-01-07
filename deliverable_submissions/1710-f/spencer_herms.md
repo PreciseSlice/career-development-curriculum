@@ -29,7 +29,3 @@ https://gist.github.com/PreciseSlice/95f29b805685ec8766674c074929ad6a
 
 
 https://gist.github.com/PreciseSlice/d834f344f67e2e36ec5c7ec75146fb03
-<<<<<<< HEAD
-=======
-
->>>>>>> 897a201173dc34b9679147508fee1bf43f7b2f8d
